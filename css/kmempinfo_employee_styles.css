@@ -1,0 +1,56 @@
+.kmempinfo_employee_profile {
+    float:left;
+    display:block;
+    width:100%;
+    height:auto;
+    margin-bottom:24px;
+    padding: 12px 12px 24px;
+    clear:both;
+}
+
+.kmempinfo_employee_profile.female {
+    background-color: #FFEBE8;
+}
+
+.kmempinfo_employee_profile.male {
+    background-color: #ccf3fa;
+}
+
+.kmempinfo_employee_profile.unknownsex {
+    background-color: #ededed;
+}
+
+.kmempinfo_employee_profile_list {
+    float:left;
+    display:block;
+    width:100%;
+    height:auto;
+    margin-bottom:24px;
+    padding: 12px 12px 24px;
+    clear:both;
+}
+
+.kmempinfo_employee_profile_list.female {
+    background-color: #FFEBE8;
+}
+
+.kmempinfo_employee_profile_list.male {
+    background-color: #ccf3fa;
+}
+
+.kmempinfo_employee_profile_list.unknownsex {
+    background-color: #ededed;
+}
+
+.kmempinfo_employee_profile img,
+.kmempinfo_employee_profile ul,
+.kmempinfo_employee_profile_list img,
+.kmempinfo_employee_profile_list ul {
+    float:left;
+    display:block;
+}
+
+.kmempinfo_employee_profile img,
+.kmempinfo_employee_profile_list img {
+    margin:0 32px 32px 0;
+}
